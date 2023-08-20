@@ -27,7 +27,7 @@ I present to you a small project, testing animaton hero texte, i had an idea to 
 
 ## Result
 
-...
+<img src="https://github.com/mvfernando/mentor_animation_in_flutter/blob/main/assets/output/result.gif" height="400">
 
 
 ## Features 
